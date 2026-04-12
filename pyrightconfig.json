@@ -1,0 +1,6 @@
+{
+  "venvPath": "ai_model",
+  "venv": ".venv311",
+  "reportMissingModuleSource": "none",
+  "reportMissingImports": "none"
+}
