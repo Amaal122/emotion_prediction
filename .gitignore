@@ -1,2 +1,5 @@
 # Local datasets (large, not versioned)
 dataset/
+
+# Local Python virtualenv
+ai_model/.venv311/
