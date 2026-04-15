@@ -1,5 +1,2 @@
-tensorflow
-opencv-python  # provides the `cv2` module
-numpy
-matplotlib
-scikit-learn
+pip==23.1.2
+setuptools==82.0.1
